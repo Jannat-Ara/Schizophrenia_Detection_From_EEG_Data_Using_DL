@@ -11,4 +11,25 @@ https://www.kaggle.com/datasets/broach/button-tone-sz/data
 
 <img width="2029" height="1763" alt="240498235-41c16c82-63ee-467e-b07d-de971ac34d02" src="https://github.com/user-attachments/assets/abd1bd1a-479e-4de5-824c-bf951b484d17" />
 
+# Extracted Features 
+
+<img width="951" height="547" alt="image" src="https://github.com/user-attachments/assets/3037d0af-a44f-4cda-b640-f574f1643fb6" />
+
+# Detailed Description of the Features
+
+<img width="962" height="707" alt="image" src="https://github.com/user-attachments/assets/b2e56e7a-fa41-4a16-b5e3-78d767182cf3" />
+
+# Result Analysis
+
+For Deep Learning Classifiers:
+
+<img width="796" height="322" alt="image" src="https://github.com/user-attachments/assets/f198b062-a14b-47d6-83b4-2a26456fbb0e" />
+
+For Machine Learning Classifiers: 
+
+<img width="662" height="255" alt="image" src="https://github.com/user-attachments/assets/3686d8dc-4e6c-4dd4-840c-840fc31ec236" />
+
+
+
+
 
