@@ -34,9 +34,9 @@ For Machine Learning Classifiers:
 
 
 # 
-N.B.: This work was done for my BSC Capstone Project.
-Institute: North South University, Dhaka, Bangladesh
-Semester: Fall 2021- Spring 2022
+N.B.: This work was done for my BSC Capstone Project. <br>
+Institute: North South University, Dhaka, Bangladesh <br>
+Semester: Fall 2021- Spring 2022 <br>
 Supervisor: Dr Tanzilur Rahman
 
 
