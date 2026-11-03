@@ -9,7 +9,8 @@ https://www.kaggle.com/datasets/broach/button-tone-sz/data
 
 # Workflow
 
-<img width="2029" height="1763" alt="240498235-41c16c82-63ee-467e-b07d-de971ac34d02" src="https://github.com/user-attachments/assets/abd1bd1a-479e-4de5-824c-bf951b484d17" />
+<img width="767" height="647" alt="image" src="https://github.com/user-attachments/assets/c8f21d37-a91d-4ad4-8bd9-0a2f88432982" />
+
 
 # Extracted Features 
 
